@@ -1,5 +1,5 @@
 # General-Python-Programs 
-The is repository contains an assortment of basic to intermediate python programs. 
+The following is a breif description of each of the above programs. 
 
 - The program __IterativeAndRecursiveCounting__ demonstrates three different ways to count vowels in a user defined string. The three methods are itteration, recusion and the build it method. 
 
